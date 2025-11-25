@@ -1,6 +1,6 @@
 # Econ235: Working with Data
 
-|  | Yuulin An | 
+|           | [Yuulin An](https://github.com/yuulinan) | 
 |----------|----------|
 | Email  | yuulin.an@colostate.edu  | 
 | Office  | Clark C309A  | 
