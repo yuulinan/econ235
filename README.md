@@ -21,6 +21,7 @@ The goal of this course is to build data management and spreadsheet skills. Stud
 The main criterion for grading assignments is the completion of all the exercises. Points will be deducted if exercises are not completed with reasonable effort (a lower standard than completing all the exercises correctly).
 
 |Assignment           | Grade Points   | Grade Percentage |
+|----------|----------|----------|
 |Assigments (22*10)   | 220            | 36.98%           |
 |Project 1            | 50             | 8.40%            |
 |Project 2            | 75             | 12.60%           |
